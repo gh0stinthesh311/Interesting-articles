@@ -1,0 +1,3 @@
+1. https://martinfowler.com/articles/is-quality-worth-cost.html
+2. https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/
+3. ~ 
